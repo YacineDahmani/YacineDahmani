@@ -1,5 +1,5 @@
 #  About Me:
-I am an Undergraduate Computer Science Student specializing in Low-Level Systems Programming and Full-Stack Web Development. I focus on building efficient, secure, and visually appealing applications.
+Yacine Dahmani, an Undergraduate Computer Science Student specializing in Low-Level Systems Programming and Full-Stack Web Development. I focus on building efficient, secure, and visually appealing applications.
 
 
 # Tech Stack:
