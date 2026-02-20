@@ -11,7 +11,7 @@
 </div>
 
 ## 🚀 About Me
-Yacine Dahmani, an Undergraduate Computer Science Student specializing in **Low-Level Systems Programming** and **Full-Stack Web Development**.[cite:3]  
+Yacine Dahmani, an Undergraduate Computer Science Student specializing in **Low-Level Systems Programming** and **Full-Stack Web Development**.
 I focus on building efficient, secure, and visually appealing applications. 
 Currently diving into **Linux (Fedora)** and **Bash scripting**.
 
