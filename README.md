@@ -53,12 +53,3 @@ Currently diving into **Linux (Fedora)** and **Bash scripting**.
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
-</div>
-
-## 📊 GitHub Stats
-<div align="center">
-  
-![Streak](https://nirzak-streak-stats.vercel.app/?user=YacineDahmani&theme=dark&hide_border=true)
-  
-</div>
-
