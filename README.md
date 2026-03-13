@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Yacine Dahmani!
+# Hi, I'm Yacine Dahmani!
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0FBBA7&center=true&vCenter=true&width=435&lines=Undergraduate+CS+Student;Low-Level+Systems+%26+Full-Stack+Dev;Building+Efficient+Secure+Apps;Learning+Linux+%28Fedora%29+%26+Bash" alt="Typing SVG" />
