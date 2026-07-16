@@ -71,12 +71,3 @@ An Undergraduate Computer Science Student from Algeria, balancing the raw power 
 </table>
 
 ---
-
-GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yacinedahmani&show_icons=true&theme=tokyonight&count_private=true" alt="Yacine's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacinedahmani&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
-</div>
